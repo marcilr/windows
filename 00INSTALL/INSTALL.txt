@@ -1,0 +1,7 @@
+INSTALL.txt
+Created Wed November 21, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Items installed under windows.
+
