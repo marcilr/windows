@@ -1,0 +1,52 @@
+unxutils-20181121.txt
+Created Wed November 21, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+UnxUtils
+
+
+The following program versions are covered:
+  bc-1.05
+  bison-1.28
+  bzip2-1.0.2
+  diffutils-2.7
+  fileutils-3.16
+  findutils-4.1
+  flex-2.5.4
+  gawk-3.1.0
+  grep-2.4.2
+  gsar110
+  gzip-1.2.4
+  indent-2.2.9
+  jwhois-2.4.1
+  less-340
+  m4-1.4
+  make-3.78.1
+  patch-2.5
+  recode-3.6
+  rman-3.0.7
+  sed-3.02
+  shellutils-1.9.4
+  tar-1.12
+  textutils-2.1
+  unrar-3.00
+  wget-1.8.2
+  which-2.4
+
+Standard behavior:
+  forward as well as backward slashes in file paths are accepted.
+
+--unxutils.sourceforge.net
+
+
+Links
+=====
+Less of More in Windows?
+I love having grep, more, head, tail, sed, wc and other tools in
+Windoze.  Tom May 19 '12 at 2:35
+https://superuser.com/questions/426226/less-or-more-in-windows
+
+UnxUtils
+Has more powerful less utility
+http://unxutils.sourceforge.net/
