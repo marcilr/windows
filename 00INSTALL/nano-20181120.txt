@@ -1,0 +1,76 @@
+nano-20181120.txt
+Created Mon November 20, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of GNU nano 
+on Windows 10 OS Build 10586.1540 64-bit
+
+Copy of git/gnu/nano/00INSTALL/INSTALL.txt (Wed November 21, 2018)
+
+Downloaded nano-2.2.5.msi (1.99MB), set TERM to a value that works
+for nano and vim in Windows, from:
+  mcandre/nano-win
+  https://github.com/mcandre/nano-win
+
+Did not want to install Chocolatey on Windows 10 workstation.
+
+Installed nano-2.2.5.msi (1.99MB) insalled to:
+  C:\Program Files (x86)\GNU\nano\bin\nano.exe
+
+Nano was was not added to PATH by default, hence:
+1. Update PATH:
+click Windows icon
+search for System
+select System
+
+2. At Control Panel Home
+click Advanced systems settings
+
+3. At System Properties
+click Environment Variables
+
+4. At Enviroment Variables under User variables:
+click PATH
+click Edit...
+
+5. At Edit environment varaible
+click Edit text...
+
+6. At Edit User Variable
+click Variable value box
+Observed that C:\Program Files (x86)\GNU\nano\bin\ had been appended
+to PATH string.  Looks good.
+click OK
+click OK
+click OK
+
+NOTE: Found that running 'nano' at the dos prompt
+      indeed runs GNU nano v2.2.5
+
+
+Links
+=====
+[1] download the nano installer from here
+DEPRECATED (Tue November 20, 2018)
+Windows users are advised to install nano via Chocolatey:[2]
+cinst nano
+https://github.com/mcandre/nano-win
+
+[2] Chocolatey
+TYhe package manager for Windows
+Chocolatey - Software Management Automation
+The sane way to manage software on Windows
+http://chocolatey.org/
+
+How to install nano using GitBash in Windows 10?
+If your ultimate goal is to have and use nano on Windows 10,
+you can download the nano installer from here[1] and just install
+the .msi file the usual Windows way. No manual path configurations 
+required.
+https://stackoverflow.com/questions/44558158/how-to-install-nano-using-gitbash-in-windows-10
+
+Install Chocolatey Now
+Installed on Windows 10 - Tue November 20, 2018
+http://chocolatey.org/
+https://chocolatey.org/install
