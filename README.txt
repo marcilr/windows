@@ -5,6 +5,9 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+00INSTALL/
+  Items installed under windows
+
 syntax/
   Windows related syntax
 
