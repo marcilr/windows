@@ -6,6 +6,32 @@ by Raymond E. Marcil <marcilr@gmail.com>
 UnxUtils
 
 
+On windows 10 installed UnxUpdates.zip files to:
+  C:\Program Files (x86)\GNU\UnxUtils\
+
+Then added to path at:
+  click Windows icon
+  click Settings
+  search for PATH (upper right)
+  click Edit environment variables for your account
+  At Environment Variables popup:
+    select PATH
+    click Edit...
+    click Edit text...
+    append to path:
+      ;C:\Program Files (x86)\GNU\UnxUtils\
+    click OK
+  click OK
+
+Open new command window and test:
+  > cat --help
+  Usage: cat [OPTION] [FILE]...
+  Concatenate FIELS(s), or standard input, to standard output.
+  ...
+  >
+  Looks good.  
+
+
 The following program versions are covered:
   bc-1.05
   bison-1.28
@@ -38,6 +64,13 @@ Standard behavior:
   forward as well as backward slashes in file paths are accepted.
 
 --unxutils.sourceforge.net
+
+
+Filelist
+========
+UnxUpdates.zip
+  latest updates (after 14-04-03)
+  http://unxutils.sourceforge.net/UnxUpdates.zip
 
 
 Links
