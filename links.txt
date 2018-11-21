@@ -1,0 +1,22 @@
+links.txt
+Created Wed November 21, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Windows related links
+
+
+Links
+=====
+GnuWin32
+Has more powerfull less utility
+http://gnuwin32.sourceforge.net/
+
+Less of More in Windows?
+I love having grep, more, head, tail, sed, wc and other tools in
+Windoze. – Tom May 19 '12 at 2:35
+https://superuser.com/questions/426226/less-or-more-in-windows
+
+UnxUtils
+Has more powerful less utility
+http://unxutils.sourceforge.net/
