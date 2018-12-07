@@ -1,0 +1,37 @@
+disable-capslock.txt
+Created Fri Dec  7 08:28:34 AST 2018
+by Raymond E. Marcil <marcilr@alaksa.gov>
+
+Disable Caps Lock in Windows 10
+
+
+1. Run regedit
+Start > Run > regedit
+
+2. Open:
+Computer
+  HKEY_CURRENT_USER
+    Keyboard Layout
+
+3. Added new Binary Value
+right click Keyboard Layout
+select New > Binary Value
+for name enter "Scancode Map"
+double click (zero-length binary value) and enter:
+  Value name:
+  Scancode Map
+
+  0000 00 00 00 00 00 00 00 00
+  0008 02 00 00 00 00 00 3A 00
+  0010 00 00 00 00 00
+
+click OK
+click File > Exit
+
+4. Restart windows to apply change
+  
+
+Links
+=====
+Disable Caps Lock
+https://www.wikihow.com/Disable-the-Capslock-Key-in-Windows
