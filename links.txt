@@ -12,6 +12,11 @@ GnuWin32
 Has more powerfull less utility
 http://gnuwin32.sourceforge.net/
 
+How to Share Files Between Windows and Linux
+Korbin Brown
+UPDATED JULY 3, 2017, 3:08PM EDT
+https://www.howtogeek.com/176471/how-to-share-files-between-windows-and-linux/
+
 Less of More in Windows?
 I love having grep, more, head, tail, sed, wc and other tools in
 Windoze. – Tom May 19 '12 at 2:35
