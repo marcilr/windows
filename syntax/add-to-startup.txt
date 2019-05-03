@@ -1,0 +1,55 @@
+add-to-startup.txt
+Created Fri May  3 08:06:16 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+How to Run Program Automatically at Startup on Windows 10:
+
+o First of all you need to locate your Startup.  But before that
+  make a small note that each user on a computer has totally
+  another Startup folder. So if you add a shortcut to any program
+  to the Startup folder from the user account that you are logged
+  into then it will run when that particular account is logged
+  into.
+ 
+
+o So bring the Run command dialog box into your computer screen
+  by pressing Windows and R
+
+o Type shell:startup on the command field and click Ok.
+
+o The Startup folder for the logged in user account will come on
+  the screen.
+
+o For the programs that you wish to run automatically at boot
+  add their shortcuts to the Startup
+
+o To create a program shortcut right click on an empty area of
+  the Startup  folder and select New followed by Shortcut.
+
+o  On the newly opened Create Shortcut window click on the
+   Browse link and find the file that you wish to run
+   automatically.
+
+o Provide a name to the shortcut created.
+
+o And click Finish.
+
+o For the programs whose shortcuts are already created, you
+  can shift them to the Startup
+
+o In case you want to disable the created shortcuts than you
+  can do from Task Manager.
+
+o Or you can easily remove the shortcut from the Startup.
+
+--How to Run Program Automatically at Startup on Windows 10
+  https://answers.microsoft.com/en-us/skype/forum/all/start-the-new-skype-automatically-with-windows-10/bdd2ddf7-47c1-4761-b437-21e41f0c59b8
+
+
+Links
+=====
+Start the NEW SKYPE automatically with windows 10
+Created on June 16, 2017
+https://answers.microsoft.com/en-us/skype/forum/all/start-the-new-skype-automatically-with-windows-10/bdd2ddf7-47c1-4761-b437-21e41f0c59b8
