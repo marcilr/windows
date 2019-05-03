@@ -5,6 +5,11 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+add-to-startup.txt
+  Start the NEW SKYPE automatically with windows 10
+  Created on June 16, 2017
+  https://answers.microsoft.com/en-us/skype/forum/all/start-the-new-skype-automatically-with-windows-10/bdd2ddf7-47c1-4761-b437-21e41f0c59b8
+
 disable-capslock.txt
   Disable Caps Lock in Windows 10
   Disable Caps Lock
