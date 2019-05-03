@@ -11,13 +11,22 @@ o First of all you need to locate your Startup.  But before that
   another Startup folder. So if you add a shortcut to any program
   to the Startup folder from the user account that you are logged
   into then it will run when that particular account is logged
-  into.
- 
+  into. 
 
 o So bring the Run command dialog box into your computer screen
   by pressing Windows and R
 
+  Windows + R worked to bring up Run on SOA DNR BPU windows 10
+  workstation.
+
 o Type shell:startup on the command field and click Ok.
+
+  Search for shell:startup yields:
+    Marcil, Ray (OIT) > AppData > Roaming > Microsoft > Windows \
+    Start Menu > Programs > Startup
+
+  Search for and copied Skype for Business shortcut to
+  Startup
 
 o The Startup folder for the logged in user account will come on
   the screen.
