@@ -5,11 +5,38 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Screenshots in Windows 10
 
-
 PrtScn key or windows logo key + PrtScn captures middle window
   of 3-display windows 10 workstation to buffer that can be
   pasted into gimp in windows 10 or gimp in virtualbox linux vm.
   Very nice.
+
+Alt + PrtScn key - captures current window
+  Very nice.
+
+windows logo key + shift + S can be used to capture desired
+  section of screen using a selection box.  Then ctrl-v into
+  gimp.  No need to cut-paste-crop-save. 
+  Very, very nice.
+
+Snipping Tool - 'In Windows 10, Snipping Tool has a new “Delay”
+  option, which will allow you to capture screenshots pop-up menus
+  and tooltips. Open the Snipping Tool app and click Delay.  From
+  the drop-down list, click on the number of seconds you’d like to
+  wait until your screenshot is taken.
+
+  Now choose the type of snip you want to make by clicking the arrow
+  next to “New.”  You can choose from one of four types of snip:
+  free-form, rectangular, window, and full-screen.
+
+  Unlike a regular snip, the screen will not immediately fade out.
+  Instead, you will have between 1–5 seconds, depending on the delay
+  you chose, to set up your screenshots.  You can use this time to
+  open that pop-up menu or tooltip you want to capture.  Once your
+  seconds have passed, the screen will freeze and fade out so you
+  can create your snip.  If you chose window or full-screen, it will
+  just capture the snip immediately.'
+  --www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/
+
 
 To Take a Screenshot Without Saving
 ===================================
