@@ -18,3 +18,7 @@ disable-capslock.txt
 prtscn.txt
   Screenshots in Windows 10
 
+  windows key + PrtScn captures middle window of 3-display
+    windows 10 workstation to buffer that can be pasted into 
+    gimp under windows 10.
+
