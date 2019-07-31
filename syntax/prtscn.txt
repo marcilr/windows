@@ -11,6 +11,7 @@ PrtScn key or windows logo key + PrtScn captures middle window
   Very nice.
 
 Alt + PrtScn key - captures current window    <===
+  Copy then paste into gimp (windows 10 or linux) with ctrl-v
   Very nice.
 
 windows logo key + shift + S can be used to capture desired
