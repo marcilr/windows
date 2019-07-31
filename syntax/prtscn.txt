@@ -6,6 +6,11 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Screenshots in Windows 10
 
 
+windows key + PrtScn captures middle window of 3-display
+  windows 10 workstation to buffer that can be pasted into 
+  gimp under windows 10.
+
+
 To Take a Screenshot Without Saving
 ===================================
 Press the “PrtScn” key.  A screenshot of your display is now copied to
