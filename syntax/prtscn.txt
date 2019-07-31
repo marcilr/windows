@@ -10,7 +10,7 @@ PrtScn key or windows logo key + PrtScn captures middle window
   pasted into gimp in windows 10 or gimp in virtualbox linux vm.
   Very nice.
 
-Alt + PrtScn key - captures current window
+Alt + PrtScn key - captures current window    <===
   Very nice.
 
 windows logo key + shift + S can be used to capture desired
