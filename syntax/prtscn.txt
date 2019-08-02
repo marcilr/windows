@@ -5,19 +5,11 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Screenshots in Windows 10
 
-PrtScn key or windows logo key + PrtScn captures middle window
-  of 3-display windows 10 workstation to buffer that can be
-  pasted into gimp in windows 10 or gimp in virtualbox linux vm.
-  Very nice.
 
-Alt + PrtScn key - captures current window    <===
-  Copy then paste into gimp (windows 10 or linux) with ctrl-v
-  Very nice.
+alt + PrtScn         - snapshot of currently selected window
+ctrl + PrtScn        - snapshot of center display (1 of 3 diplays)
+windows key + PrtScn - snapshot of center display (1 of 3 diplays)
 
-windows logo key + shift + S can be used to capture desired
-  section of screen using a selection box.  Then ctrl-v into
-  gimp.  No need to cut-paste-crop-save. 
-  Very, very nice.
 
 Snipping Tool - 'In Windows 10, Snipping Tool has a new “Delay”
   option, which will allow you to capture screenshots pop-up menus
