@@ -1,0 +1,11 @@
+preview-panel.txt
+Created Fri Aug  9 06:36:36 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Windows folder
+  View > unselect
+    Preview panel that had a lock on file
+
+--State of Alaska OIT DNR, yellow pad, July 9, 2019
+
