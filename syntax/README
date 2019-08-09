@@ -29,3 +29,6 @@ prtscn.txt
     windows 10 workstation to buffer that can be pasted into 
     gimp under windows 10.
 
+windows-10-hosts-file.txt
+  The windows 10 host file is:
+  C:\Windows\System32\drivers\etc\hosts
