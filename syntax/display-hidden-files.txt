@@ -1,0 +1,20 @@
+display-hidden-files.txt
+Created Wed Aug 28 09:33:17 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To permanently display all hidden folders on Windows 10 & 8:
+1. Open File Explorer/Windows Explorer
+2. Click View then select Options
+3. In the Folder Options window, choose View,
+   select Show hidden files, folders, and drives,
+   and then click OK
+
+This worked in windows 10 - August 28, 2019
+
+--help.ableton.com
+
+Links
+=====
+How to access hidden folders
+https://help.ableton.com/hc/en-us/articles/209070509-How-to-access-hidden-folders
