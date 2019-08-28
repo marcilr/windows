@@ -15,6 +15,18 @@ disable-capslock.txt
   Disable Caps Lock
   https://www.wikihow.com/Disable-the-Capslock-Key-in-Windows
 
+display-hidden-files.txt
+  To permanently display all hidden folders on Windows 10 & 8:
+  1. Open File Explorer/Windows Explorer
+  2. Click View then select Options
+  3. In the Folder Options window, choose View,
+     select Show hidden files, folders, and drives,
+     and then click OK
+
+  This worked in windows 10 - August 28, 2019
+  --How to access hidden folders
+    https://help.ableton.com/hc/en-us/articles/209070509-How-to-access-hidden-folders
+
 preview-panel.txt
   Windows folder
     View > unselect
