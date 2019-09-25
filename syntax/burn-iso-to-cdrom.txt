@@ -1,0 +1,30 @@
+burn-iso-to-cdrom.txt
+Created Wed Sep 25 09:08:28 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Burn iso to cdrom
+
+
+In windows 10 you can simply right click an iso and select to burn it to a disk.
+1. Insert a blank CD or DVD in your writable optical drive.
+2. Right-click on the ISO file and select "Burn disk image."
+3. Select "Verify disc after burning" to make sure the ISO was burned without any errors.
+4. Click Burn.
+--superuser.com/questions/1281568/windows-10-burn-iso
+
+
+Example
+=======
+Tried this on Windows 10 workstation:
+1. Insert blank TDK 700M cd-r
+2. Right-click iso file file and select "Burn disk image."
+   debian-10.1.0-amd64-xfce-CD-1.iso
+   Went to Manage tab > Burn disk
+3. Select "Verify disc after burning" 
+
+
+Links
+=====
+Windows 10 burn ISO? [duplicate]
+https://superuser.com/questions/1281568/windows-10-burn-iso
